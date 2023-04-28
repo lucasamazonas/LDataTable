@@ -1,3 +1,1 @@
-# LDataTables
-
-lib vue 3 in development!
+# Tabela com virtual scroll usando vuejs 3 e tsx
